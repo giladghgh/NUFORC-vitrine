@@ -1,0 +1,84 @@
+INSPIRATION
+-----------
+https://public.tableau.com/profile/athan.mavrantonis#!/vizhome/UFOSightings1970-2014/UFOSightings
+
+
+
+
+IDEAS
+-----
+Rank countries/states using - 'sightings per capita'
+			    - 'contact hours per capita' [using Duration]
+			    - 'summer-winter divergence' [you expect sightings to be uniform]
+
+
+
+
+COMMENTS
+--------
+California has experienced more UFO sightings than every country outside of the U.S. combined.
+
+Colouring is proportional to LOG(COUNT+1). Combined with a diverging palette, countries with a
+COUNT of 1 are made brown and the rest are on a seemingly separate, sequential palette.
+
+NUFORC website launched in June 2001.
+
+The U.S. Defense Intelligence Agency's Advanced Aerospace Threat Identification Program ran from 2007 to 2012.
+After its start we observe a marked increase in reporting, even compared to the boost from the website's launch.
+We also see a sharp decline in reporting shortly after its termination.
+
+
+
+
+DATA CLEANUP
+------------
+Probably the dirtiest dataset I've ever seen.
+Basically they're all treated as freetext fields, clearly no validation occurs at the recording stage of collection:
+-	"Duration" is given textually (e.g. "1 second", "3 minutes").
+-	"Time" has sporadic "-1" entries.
+-	"Comment" text is encoded horrifically.
+-	"Country" is a mess:
+		A)	Nonsense entries including but not limited to:
+			   "4 miles at sea"
+			   "?!?!"
+			   "dont know"
+			   "military report"
+			   "jacksonveil"
+			   "ingerland!"
+			   "between; mountain top"
+			   "Viet Nam"
+		B)	Misnomers and reduplicates:
+			   "Papua/New Guinea"
+			   "U.K." and "United Kingdom" and "United Kingdom uk"
+			   "Trinidad/Tobago" and "Trinidad and Tobago" and "Trinidad & Tobago"
+			   "Brasil"
+			   Loads of "Republic of"s and "Rep. of"s;
+				"Republic of Ireland"
+				"Republic of South Korea" ???
+				"Republic of South Africa" ??!?!?!!
+-	Lat/long missing for countries outside of English-speaking North America. Cannot speak to their veracity.
+
+
+
+CHAPTERS
+--------
+Who is most acquainted with the aliens?
+-	Filled map
+-	Density map?
+-	Longest duration of encounters [WIP]
+
+Where do they prefer make contact?
+-	point out Case Highlights:
+		¬ June 1994, Meng Zhaoguo alleges he had a sexual intercourse with a 3-metre-tall female alien.
+		¬ During a five-month-period from 1989 to 1990 thousands of people in Belgium claim to see a black triangle, with lights, flying low across the country
+		¬ June 2013, a foreign object smashed into the nose cone of an Air China passenger aircraft when it was flying at 26,000 feet. The strike caused a huge dent and the plane had to make a emergency landing
+		¬ Several years before Jimmy Carter became US president, he reported seeing a UFO while in Leary, Georgia in 1969
+		¬ more from nuforc.org
+
+The summer-winter divergence
+-	Kolmogorov-Smirnov test?
+
+The extraterrestrial visitation schedule
+-	seasonal analysis
+-	4th July - Why are extraterrestrials extra patriotic? [Bob Dorr from The Economist]
+-	Correlation with film industry
