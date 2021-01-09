@@ -30,7 +30,9 @@ I found the [data.world](https://data.world/timothyrenner/ufo-sightings) extract
 * `Latitude` and `Longitude` are missing for non-U.S. locations, and even incorrect for some;
 * `Country` data is _completely_ unusable for many reasons, first and foremost because it was treated as a free-text field at the point of data entry — most inconsistencies and errors have this to blame — but also due to the labelling of Canadian locations as American (that's ~96% of the dataset obsolete), and the use of outdated choronyms (e.g. _West Germany_, _Burma_, _Swaziland_, etc.).
 
-I found [Kiru's](https://github.com/kiru) [analysis on the matter](https://github.com/kiru/ada_project) too involved. I achieved a near-identical result to Kiru with a more modest approach — that is; without parallelisation, by indexing the database by date rather than shape (not sure why this choice was made), using a quarter of the dependencies, and in about a fifth the number of lines.
+<br/>
+
+I found [Kiru](https://github.com/kiru)'s [analysis on the matter](https://github.com/kiru/ada_project) too involved. I achieved a near-identical result to Kiru with a more modest approach — that is; without parallelisation, by indexing the database by date rather than shape (not sure why this choice was made), using a quarter of the dependencies, and in about a fifth the number of lines.
 
 ### Data cleansing
 
