@@ -37,7 +37,7 @@ To support some of my findings and hypotheses I needed several auxiliary dataset
 
 ## License
 
-[Everything here is completely unlincensed](LICENSE).
+Everything here is wholly [unlincensed](LICENSE).
 
 ---
 
