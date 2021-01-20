@@ -30,7 +30,7 @@ I found [Kiru](https://github.com/kiru)'s [take on the matter](https://github.co
 Cleanup, as per, consumed the majority of my time with this project.
 
 
-### Complementary data
+### Auxilliary data
 To support some of my findings and hypotheses I needed several auxiliary datasets.
 
 ---
