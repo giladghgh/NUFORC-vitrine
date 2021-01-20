@@ -8,7 +8,7 @@
 
 ## Overview
 
-This repository stores my data obtention methods and techniques, as well as the (as-of-yet unfinished) __Tableau__ workbook showcasing my analysis and insights.
+This repository stores my data obtention methods, as well as the (as-of-yet unfinished) __Tableau__ workbook showcasing my analysis and insights.
 
 ---
 
