@@ -42,9 +42,9 @@ Most fields are treated as freetext fields, and clearly no validation occured at
 		* "jacksonveil"
 		* "ingerland!"
 		* "between; mountain top"
-		* "Viet Nam"
 	  -	Misnomers and reduplicates:
 		  * "Papua/New Guinea"
+		* "Viet Nam"
 		* "U.K." and "United Kingdom" and "United Kingdom uk"
 		* "Trinidad/Tobago" and "Trinidad and Tobago" and "Trinidad & Tobago"
 		* "Brasil"
