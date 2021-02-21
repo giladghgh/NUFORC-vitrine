@@ -51,9 +51,9 @@ Most fields are treated as freetext fields, and clearly no validation occured at
 * NUFORC website launched in June 2001.
 * The U.S. Defense Intelligence Agency's Advanced Aerospace Threat Identification Program ran from 2007 to 2012. After its start we observe a marked increase in reporting, even compared to the boost from the website's launch. We also see a decline in reporting shortly after its termination.
 * Three days of note: July 4th and February 29th.
-  * 04/07  I think this one's self-explanatory.
-  * 29/02  While NUFORC vets all reports and ensures they're not pranks, this is probably exactly that.
-  * 07/11  ???
+  * 04/07	I think this one's self-explanatory.
+  * 29/02	While NUFORC vets all reports and ensures they're not pranks, this is probably exactly that.
+  * 07/11  	???
 * Datetime entries with missing time are imputed at midnight on the dot. There were 3,062 missing entries and no original entries at 00:00:00 exactly. All 00:00:00 entries are therefore NaTs.
 * A more thorough accounting can be found [here](https://ada-nuforc-analysis.github.io/), courtesy of [kiru](https://github.com/kiru).
 
