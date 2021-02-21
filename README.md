@@ -14,7 +14,7 @@ This repository stores my data obtention methods, as well as the (as-of-yet unfi
 
 ## Briefing
 
-All data was found, scraped, cleaned, polished, and validated by me.
+All data was collected (WIP), cleaned, analysed and visualised by me.
 
 
 ### Data collection
@@ -27,17 +27,13 @@ I found [Kiru](https://github.com/kiru)'s [take on the matter](https://github.co
 
 
 ### Data cleansing
-Cleanup, as per, consumed the majority of my time with this project.
 
-
-### Auxiliary data
-To support some of my findings and hypotheses I needed several auxiliary datasets.
 
 ---
 
 ## License
 
-Everything here is wholly [unlincensed](LICENSE).
+Everything here is [unlincensed](LICENSE).
 
 ---
 
