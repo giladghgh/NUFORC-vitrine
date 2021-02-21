@@ -50,7 +50,7 @@ Most fields are treated as freetext fields, and clearly no validation occured at
 * Colouring is proportional to LOG(COUNT+1). Combined with a diverging palette, countries with a COUNT of 1 are made brown and the rest are on a seemingly separate, sequential palette.
 * NUFORC website launched in June 2001.
 * The U.S. Defense Intelligence Agency's Advanced Aerospace Threat Identification Program ran from 2007 to 2012. After its start we observe a marked increase in reporting, even compared to the boost from the website's launch. We also see a decline in reporting shortly after its termination.
-* Three days of note: July 4th and February 29th.
+* Three days of note: July 4th, February 29th, and November 7th.
   * 04/07 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I think this one's self-explanatory.
   * 29/02 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; While NUFORC vets all reports and ensures they're not pranks, this is probably exactly that.
   * 07/11 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ???
