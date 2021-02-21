@@ -27,6 +27,38 @@ The U.S. Defense Intelligence Agency's Advanced Aerospace Threat Identification 
 After its start we observe a marked increase in reporting, even compared to the boost from the website's launch.
 We also see a sharp decline in reporting shortly after its termination.
 
+Three days of note: July 4th and February 29th.
+July 4		The clear explanation here is that people mistake fireworks for UFOs lmao
+February 29	While NUFORC vets all reports and ensures they're not pranks, this is likely a quirk in the data
+		that doesn't mean anything.
+November 7	???
+A more thorough accounting can be found at [https://ada-nuforc-analysis.github.io/], courtesy of [DUDE'S NAME].
+
+Datetime entries with missing time are imputed at midnight on the dot. There were 3,062 missing entries and no
+original entries at 00:00:00 exactly. All 00:00:00 entries are therefore NaTs.
+
+
+
+SHAPES
+------
+Flash
+Orb
+Teardrop
+Cylinder
+Disk
+Indiscernible
+Egg
+Metamorphing
+Swarm
+Chevron
+Triangle
+Cross
+Rectangle
+Diamond
+Cone
+	All images used are public domain.
+
+
 
 
 
