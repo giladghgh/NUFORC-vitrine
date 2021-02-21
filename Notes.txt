@@ -55,30 +55,4 @@ Basically they're all treated as freetext fields, clearly no validation occurs a
 			   Loads of "Republic of"s and "Rep. of"s;
 				"Republic of Ireland"
 				"Republic of South Korea" ???
-				"Republic of South Africa" ??!?!?!!
 -	Lat/long missing for countries outside of English-speaking North America. Cannot speak to their veracity.
-
-
-
-CHAPTERS
---------
-Who is most acquainted with the aliens?
--	Filled map
--	Density map?
--	Longest duration of encounters [WIP]
-
-Where do they prefer make contact?
--	point out Case Highlights:
-		¬ June 1994, Meng Zhaoguo alleges he had a sexual intercourse with a 3-metre-tall female alien.
-		¬ During a five-month-period from 1989 to 1990 thousands of people in Belgium claim to see a black triangle, with lights, flying low across the country
-		¬ June 2013, a foreign object smashed into the nose cone of an Air China passenger aircraft when it was flying at 26,000 feet. The strike caused a huge dent and the plane had to make a emergency landing
-		¬ Several years before Jimmy Carter became US president, he reported seeing a UFO while in Leary, Georgia in 1969
-		¬ more from nuforc.org
-
-The summer-winter divergence
--	Kolmogorov-Smirnov test?
-
-The extraterrestrial visitation schedule
--	seasonal analysis
--	4th July - Why are extraterrestrials extra patriotic? [Bob Dorr from The Economist]
--	Correlation with film industry
